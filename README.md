@@ -103,6 +103,11 @@ ylabel("Gain");
 
 <img width="702" height="594" alt="image" src="https://github.com/user-attachments/assets/f41a7cba-5c49-4db9-b8b2-27d0c7c71786" />
 
+ __Caluculation__:
+
+![WhatsApp Image 2025-11-27 at 10 49 46_0fb7b843](https://github.com/user-attachments/assets/934a29b7-e77a-4946-949a-75d2dd426b11)
+
+
 
    __Result__:
    
